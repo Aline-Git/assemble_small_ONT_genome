@@ -1,4 +1,4 @@
-# Assemble small genome (up to 10 Mbp) from ONT raw sequences
+# Assemble small genome (up to 10 Mbp) from ONT raw sequences (under construction)
  This pipeline takes the raw sequences in fastq.gz format and outputs the polished assembly of the genome.
 
 ## run the code 
